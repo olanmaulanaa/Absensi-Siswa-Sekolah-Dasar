@@ -1,0 +1,14 @@
+http://localhost/absensiswa/admin/
+
+Aplikasi absensi bagian admin
+
+Username : olanm090@gmail.com
+pass	 : admin
+
+Aplikasi absensi bagian pengguna
+
+http://localhost/absensiswa/
+
+Username : untuk username ada di database absensi guru untuk bagian nip masukkan misalnya 908890890890
+password : 908890890890 
+
